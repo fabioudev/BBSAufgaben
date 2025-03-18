@@ -11,7 +11,8 @@ for i in userInput:
 
 print("Your encrypted answer is: ", result)
 
-"""#Code für die Richtige Antwort in der Aufgabe:
+"""
+#Code für die Richtige Antwort in der Aufgabe:
 userInput = input()
 
 result = ""

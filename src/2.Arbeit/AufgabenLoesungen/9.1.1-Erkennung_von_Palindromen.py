@@ -2,11 +2,13 @@ userInput = input("Enter the a word to check for palindrom: ")
 
 reversedInput = ""
 
-"""#Möglichkeit 1
+"""
+#Möglichkeit 1
 for i in range(len(userInput)):
     reversedInput = userInput[i] + reversedInput
 """
-"""#Möglichkeit 2
+"""
+#Möglichkeit 2
 for i in userInput:
     reversedInput = i + reversedInput
 """

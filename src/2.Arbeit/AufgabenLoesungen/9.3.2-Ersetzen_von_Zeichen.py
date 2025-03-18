@@ -15,7 +15,8 @@ for i in textInput:
 
 print("Your result is: ", result)
 
-"""#Code für die richtige Antwort in der Aufgabe: 
+"""
+#Code für die richtige Antwort in der Aufgabe: 
 textInput = input()
 
 oldCharinput = input()
