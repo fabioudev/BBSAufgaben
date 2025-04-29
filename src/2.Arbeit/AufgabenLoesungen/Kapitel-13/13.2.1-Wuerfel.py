@@ -1,4 +1,11 @@
 from random import randint
-augen = 0
-def __init__():
-    augen = randint(1, 6)
+class Wuerfel:
+    def __init__(self):
+        self.augen = randint(1, 6)
+
+    def werfen(self):
+        self.augen = randint(1, 6)
+
+
+w = Wuerfel()
+print(1 <= w.augen <= 6)
